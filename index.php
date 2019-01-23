@@ -1,5 +1,10 @@
 <html>
-<h2>Sample form to test PayMents Integration</h2>
+  <head>
+  <title>Payment processor HTML form to the Payments API</title>
+  <!----An HTML form illustrating the basics for integrating your website with www.paymentprocessor-script.com PayMents gateway--->
+  </head>
+  
+  <h2>Sample form to test PayMents Integration</h2>
 <form action="https://www.paymentprocessor-script.com/demos/downloads/Payments-New/api/webscr" method="POST">
 <input name="itemName" required="" type="text" placeholder="Enter the Item to buy" /><br /> 
 <input name="amt" readonly="readonly" type="text" value="40" /> <br />
