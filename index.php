@@ -1,7 +1,7 @@
 <html>
   <head>
   <title>Payment processor HTML form to the Payments API</title>
-  <!----An HTML form illustrating the basics for integrating your website with www.paymentprocessor-script.com PayMents gateway--->
+  <!--An HTML form illustrating the basics for integrating your website with www.paymentprocessor-script.com PayMents gateway--->
   </head>
   
   <h2>Sample form to test PayMents Integration</h2>
